@@ -55,4 +55,4 @@ password = ""
 for letter in password_list:
     password += letter
 
-print(f"Your Password is: {password}")
+print(f"Your Password(Strong) is: {password}")
