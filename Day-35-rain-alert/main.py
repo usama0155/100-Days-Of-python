@@ -9,7 +9,7 @@ url = f"https://ntfy.sh/{TOPIC}"
 
 
 parameter = {
-    "q" : "shaoyang",
+    "q" : "islamabad",
     "appid" : api_key,
     "cnt" : 4
 }
