@@ -4,8 +4,8 @@
 
 ### My Journey Through Angela Yu's 100 Days of Code (Dec 2025)
 
-[![Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/100-Days-of-Python?style=for-the-badge&color=FF6F00)](https://github.com/YOUR_USERNAME/100-Days-of-Python)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/100-Days-of-Python?style=for-the-badge&color=yellow)](https://github.com/YOUR_USERNAME/100-Days-of-Python/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/Yusama0155/100-Days-of-Python?style=for-the-badge&color=FF6F00)](https://github.com/YOUR_USERNAME/100-Days-of-Python)
+[![Stars](https://img.shields.io/github/stars/usama0155/100-Days-of-Python?style=for-the-badge&color=yellow)](https://github.com/YOUR_USERNAME/100-Days-of-Python/stargazers)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python)](https://python.org)
 [![Udemy](https://img.shields.io/badge/Udemy-100%20Days%20of%20Python-EC5252?style=for-the-badge&logo=udemy)](https://www.udemy.com/course/100-days-of-code/)
 
@@ -34,3 +34,105 @@ I upload one project every day to stay consistent and track my progress publicly
 ## 🔥 Current Progress
 
 **Day 3 / 100** Completed
+
+
+| Status       | Days Completed | Start Date   | Target Finish |
+|--------------|----------------|--------------|---------------|
+| In Progress  | **3 Days**     | Dec 1, 2025  | March 2026    |
+
+---
+
+## 📊 Projects Overview
+
+### Beginner Projects (Days 1 - 14)
+
+| Day | Project Name                    | Main Topics                          | Status | Link |
+|:---:|-------------------------------|--------------------------------------|:------:|:----:|
+| 01  | 🎸 Band Name Generator         | Variables, Input, Strings            | ✅     | [View →](Day-001-Band-Name-Generator) |
+| 02  | 💰 Tip Calculator              | f-Strings, Data Types, Math          | ✅     | [View →](Day-002-Tip-Calculator) |
+| 03  | 🏝️ Treasure Island            | If/Elif/Else, Nested Logic           | ✅     | [View →](Day-003-Treasure-Island) |
+| 04  | 🎲 Rock Paper Scissors         | Random, Lists                        | 🔄     | [View →](Day-004-Rock-Paper-Scissors) |
+| 05  | 🔐 Password Generator          | Loops, Range                         | ⏳     | — |
+| 07  | 🎯 Hangman                     | Flowcharts, ASCII Art                | ⏳     | — |
+| 08  | 🔢 Caesar Cipher               | Functions, Modulo                    | ⏳     | — |
+| 11  | 🃏 Blackjack                   | Capstone Project                     | ⏳     | — |
+
+<details>
+<summary><b>View All 100 Days Projects →</b></summary>
+
+| Day | Project                          | Status |
+|:---:|----------------------------------|:------:|
+| 15  | ☕ Coffee Machine (OOP)           | ⏳     |
+| 20  | 🐍 Snake Game                    | ⏳     |
+| 22  | 🏓 Pong Game                     | ⏳     |
+| 25  | 🇺🇸 US States Game (Pandas)      | ⏳     |
+| 45  | 🎬 Top 100 Movies Scraper        | ⏳     |
+| 55  | 🌐 Flask Web Apps                | ⏳     |
+| 70  | Full Stack Blog with Authentication | ⏳  |
+| 100 | 🎉 Final Portfolio Project       | ⏳     |
+
+</details>
+
+---
+
+## 🛠️ Skills I Am Building
+
+- Python Fundamentals
+- Object-Oriented Programming (OOP)
+- APIs & JSON
+- Web Development with Flask
+- Data Analysis with Pandas
+- GUI with Tkinter
+- Web Scraping
+- Automation & Selenium
+
+---
+
+## 📸 Project Showcase
+
+**Day 1** - Band Name Generator  
+**Day 2** - Tip Calculator  
+**Day 3** - Treasure Island  
+
+(Screenshots will be added inside each day's folder)
+
+---
+
+## 🎯 Goals
+
+- [x] Complete first 3 days
+- [ ] Finish Beginner Section (Day 1-30)
+- [ ] Build first web app with Flask
+- [ ] Deploy a project online
+- [ ] Complete all 100 Days! 🏆
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/usama0155)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/usama___015)
+
+</div>
+
+---
+
+## ⭐ Support
+
+If you like this project or are also doing the 100 Days of Code, please give it a **STAR** ⭐  
+
+It really motivates me!
+
+---
+
+<div align="center">
+
+**Made with ❤️ + Python + Lots of Coffee**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=usama0155&color=blue)
+
+**Happy Coding!** 🐍✨
+
+</div>
