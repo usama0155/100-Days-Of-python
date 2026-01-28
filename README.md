@@ -38,7 +38,7 @@ I upload one project every day to stay consistent and track my progress publicly
 
 | Status       | Days Completed | Start Date   | Target Finish |
 |--------------|----------------|--------------|---------------|
-| In Progress  | **3 Days**     | Dec 1, 2025  | March 2026    |
+| In Progress  | **3 Days**     | Jan 1, 2026  | April 2026    |
 
 ---
 
@@ -88,20 +88,10 @@ I upload one project every day to stay consistent and track my progress publicly
 
 ---
 
-## 📸 Project Showcase
-
-**Day 1** - Band Name Generator  
-**Day 2** - Tip Calculator  
-**Day 3** - Treasure Island  
-
-(Screenshots will be added inside each day's folder)
-
----
-
 ## 🎯 Goals
 
 - [x] Complete first 3 days
-- [ ] Finish Beginner Section (Day 1-30)
+- [ ] Finish Beginner Section (Day 1-14)
 - [ ] Build first web app with Flask
 - [ ] Deploy a project online
 - [ ] Complete all 100 Days! 🏆
