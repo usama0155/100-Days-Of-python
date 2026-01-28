@@ -7,4 +7,3 @@ A simple yet accurate **Tip Calculator** that calculates the split bill with tip
 - Automatically calculates total bill + tip
 - Splits the bill fairly among any number of people
 - Clean output formatted to 2 decimal places
-- 
