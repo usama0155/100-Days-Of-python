@@ -4,8 +4,8 @@
 
 ### My Journey Through Angela Yu's 100 Days of Code (Dec 2025)
 
-[![Last Commit](https://img.shields.io/github/last-commit/Yusama0155/100-Days-of-Python?style=for-the-badge&color=FF6F00)](https://github.com/YOUR_USERNAME/100-Days-of-Python)
-[![Stars](https://img.shields.io/github/stars/usama0155/100-Days-of-Python?style=for-the-badge&color=yellow)](https://github.com/YOUR_USERNAME/100-Days-of-Python/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/usama0155/100-Days-of-Python?style=for-the-badge&color=FF6F00)](https://github.com/usama0155/100-Days-of-Python)
+[![Stars](https://img.shields.io/github/stars/usama0155/100-Days-of-Python?style=for-the-badge&color=yellow)](https://github.com/usama0155/100-Days-of-Python/stargazers)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python)](https://python.org)
 [![Udemy](https://img.shields.io/badge/Udemy-100%20Days%20of%20Python-EC5252?style=for-the-badge&logo=udemy)](https://www.udemy.com/course/100-days-of-code/)
 
