@@ -1,26 +1,17 @@
 <div align="center">
 
-<!-- BANNER IMAGE - Create one using Canva or use text -->
-<img src="assets/banner.png" alt="100 Days of Python Banner" width="100%">
+# 🐍 100 Days of Python Pro Bootcamp
 
-# 🐍 100 Days of Python — The Complete Journey
+### My Journey Through Angela Yu's 100 Days of Code (Dec 2025)
 
-### *From Zero to Python Hero* 🦸‍♂️
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/100-Days-of-Python?style=for-the-badge&color=blue)](https://github.com/YOUR_USERNAME/100-Days-of-Python)
-[![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/100-Days-of-Python?style=for-the-badge&color=orange)](https://github.com/YOUR_USERNAME/100-Days-of-Python)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/100-Days-of-Python?style=for-the-badge&color=yellow)](https://github.com/YOUR_USERNAME/100-Days-of-Python/stargazers)
-[![Python Version](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/100-Days-of-Python?style=for-the-badge&color=FF6F00)](https://github.com/YOUR_USERNAME/100-Days-of-Python)
+[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/100-Days-of-Python?style=for-the-badge&color=yellow)](https://github.com/YOUR_USERNAME/100-Days-of-Python/stargazers)
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python)](https://python.org)
+[![Udemy](https://img.shields.io/badge/Udemy-100%20Days%20of%20Python-EC5252?style=for-the-badge&logo=udemy)](https://www.udemy.com/course/100-days-of-code/)
 
 <br>
 
-<!-- ANIMATED TEXT - GitHub supports this -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7DF1E&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Python+Journey!;100+Days+%7C+100+Projects+%7C+1+Goal;Learning+%2B+Building+%2B+Growing;Let's+Code+Together!+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br>
-
-[📂 Projects](#-projects) • [📊 Progress](#-progress-tracker) • [🛠️ Skills](#️-skills-acquired) • [🎯 Goals](#-goals) • [📬 Connect](#-connect-with-me)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&lines=100+Days+of+Python+Challenge;Beginner+%E2%86%92+Advanced;Learning+%2B+Building+%2B+Consistency;Let's+Code!+%F0%9F%94%A5" alt="Typing SVG" />
 
 </div>
 
@@ -28,24 +19,18 @@
 
 ## 🌟 About This Repository
 
-> *"The only way to learn programming is by programming."* — Unknown
+This repository contains all my projects, exercises, and notes from **Dr. Angela Yu's 100 Days of Python Pro Bootcamp** (December 2025 batch).
 
-This repository documents my **100-day journey** through [Dr. Angela Yu's Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) on Udemy (December 2025 Edition). Each day features a new project, building skills from beginner to professional level.
+I upload one project every day to stay consistent and track my progress publicly.
 
-### ✨ What Makes This Special?
-
-| Feature | Description |
-|---------|-------------|
-| 📝 **Daily Projects** | Real-world applications, not just exercises |
-| 📚 **Learning Notes** | Key concepts documented for each day |
-| 🎨 **Clean Code** | Following PEP8 standards and best practices |
-| 📸 **Visual Demos** | Screenshots and GIFs of projects in action |
-| 🔄 **Continuous Updates** | Fresh commits every single day |
+### ✨ Highlights
+- Clean, well-commented code
+- Daily progress tracking
+- Project screenshots + explanations
+- Learning notes and key takeaways
 
 ---
 
-## 🏆 Current Status
+## 🔥 Current Progress
 
-<div align="center">
-
-<!-- PROGRESS BAR - Update this daily -->
+**Day 3 / 100** Completed
