@@ -51,7 +51,7 @@ I upload one project every day to stay consistent and track my progress publicly
 | 01  | 🎸 Band Name Generator         | Variables, Input, Strings            | ✅     | [View →](Day-001-band-name-generator) |
 | 02  | 💰 Tip Calculator              | f-Strings, Data Types, Math          | ✅     | [View →](Day-002-tip-calculator) |
 | 03  | 🏝️ Treasure Island            | If/Elif/Else, Nested Logic           | ✅     | [View →](Day-003-treasure-island) |
-| 04  | 🎲 Rock Paper Scissors         | Random, Lists                        | 🔄     | [View →](Day-004-Rock-Paper-Scissors) |
+| 04  | 🎲 Rock Paper Scissors         | Random, Lists                        | 🔄     | [View →](Day-004-rock-paper-scissors) |
 | 05  | 🔐 Password Generator          | Loops, Range                         | ⏳     | — |
 | 07  | 🎯 Hangman                     | Flowcharts, ASCII Art                | ⏳     | — |
 | 08  | 🔢 Caesar Cipher               | Functions, Modulo                    | ⏳     | — |
