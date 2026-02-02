@@ -17,20 +17,20 @@ number_letter = int(input("How many would you like in your Password_list: "))
 number_of_numbers = int(input("How many number you like: "))
 number_symbols = int(input("How many symbols you like: "))
 
-# passowrd = ""
-# for char in range(1, number_letter +1):
-#     random_char = random.choice(letters)
-#     passowrd += random_char
+passowrd = ""
+for char in range(1, number_letter +1):
+    random_char = random.choice(letters)
+    passowrd += random_char
 
-# for char in range(1, number_of_numbers + 1):
-#     random_number = random.choice(numbers)
-#     passowrd += random_number
+for char in range(1, number_of_numbers + 1):
+    random_number = random.choice(numbers)
+    passowrd += random_number
 
-# for char in range(1, number_symbols+1):
-#     random_symbols = random.choice(symbols)
-#     passowrd += random_symbols
+for char in range(1, number_symbols+1):
+    random_symbols = random.choice(symbols)
+    passowrd += random_symbols
 
-# print(f"Your Password is: {passowrd}")
+print(f"Your Password is: {passowrd}")
 
 password_list = []
 for char in range(1, number_letter +1):
