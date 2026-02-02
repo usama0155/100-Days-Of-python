@@ -8,6 +8,7 @@
 [![Stars](https://img.shields.io/github/stars/usama0155/100-Days-of-Python?style=for-the-badge&color=yellow)](https://github.com/usama0155/100-Days-of-Python/stargazers)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python)](https://python.org)
 [![Udemy](https://img.shields.io/badge/Udemy-100%20Days%20of%20Python-EC5252?style=for-the-badge&logo=udemy)](https://www.udemy.com/course/100-days-of-code/)
+[![Python CI](https://github.com/usama0155/100-Days-Of-python/actions/workflows/python-app.yml/badge.svg)](https://github.com/usama0155/100-Days-Of-python/actions)
 
 <br>
 
@@ -38,7 +39,7 @@ I upload one project every day to stay consistent and track my progress publicly
 
 | Status       | Days Completed | Start Date   | Target Finish |
 |--------------|----------------|--------------|---------------|
-| In Progress  | **3 Days**     | Jan 1, 2026  | April 2026    |
+| In Progress  | **5 Days**     | Jan 1, 2026  | April 2026    |
 
 ---
 
@@ -52,7 +53,7 @@ I upload one project every day to stay consistent and track my progress publicly
 | 02  | 💰 Tip Calculator              | f-Strings, Data Types, Math          | ✅     | [View →](Day-002-tip-calculator) |
 | 03  | 🏝️ Treasure Island            | If/Elif/Else, Nested Logic           | ✅     | [View →](Day-003-treasure-island) |
 | 04  | 🎲 Rock Paper Scissors         | Random, Lists                        | ✅     | [View →](Day-004-rock-paper-scissors) |
-| 05  | 🔐 Password Generator          | Loops, Range                         | ⏳     | — |
+| 05  | 🔐 Password Generator          | Loops, Range                         | ✅     | [View →](Day-005-password-generator) |
 | 07  | 🎯 Hangman                     | Flowcharts, ASCII Art                | ⏳     | — |
 | 08  | 🔢 Caesar Cipher               | Functions, Modulo                    | ⏳     | — |
 | 11  | 🃏 Blackjack                   | Capstone Project                     | ⏳     | — |

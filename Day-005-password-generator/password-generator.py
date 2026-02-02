@@ -20,6 +20,7 @@ number_letter = int(input("How many would you like in your Password: "))
 number_of_numbers = int(input("How many number you like: "))
 number_symbols = int(input("How many symbols you like: "))
 
+
 # This generator give random letters first then random numbers and at last give random symbols
 passowrd = ""
 for char in range(1, number_letter +1):
