@@ -8,6 +8,7 @@
 [![Stars](https://img.shields.io/github/stars/usama0155/100-Days-of-Python?style=for-the-badge&color=yellow)](https://github.com/usama0155/100-Days-of-Python/stargazers)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python)](https://python.org)
 [![Udemy](https://img.shields.io/badge/Udemy-100%20Days%20of%20Python-EC5252?style=for-the-badge&logo=udemy)](https://www.udemy.com/course/100-days-of-code/)
++ [![Python CI](https://github.com/usama0155/100-Days-Of-python/actions/workflows/python-app.yml/badge.svg)](https://github.com/usama0155/100-Days-Of-python/actions)
 
 <br>
 
