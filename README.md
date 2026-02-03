@@ -39,7 +39,7 @@ I upload one project every day to stay consistent and track my progress publicly
 
 | Status       | Days Completed | Start Date   | Target Finish |
 |--------------|----------------|--------------|---------------|
-| In Progress  | **5 Days**     | Jan 1, 2026  | April 2026    |
+| In Progress  | **6 Days**     | Jan 1, 2026  | April 2026    |
 
 ---
 
@@ -51,9 +51,10 @@ I upload one project every day to stay consistent and track my progress publicly
 |:---:|-------------------------------|--------------------------------------|:------:|:----:|
 | 01  | 🎸 Band Name Generator         | Variables, Input, Strings            | ✅     | [View →](Day-001-band-name-generator) |
 | 02  | 💰 Tip Calculator              | f-Strings, Data Types, Math          | ✅     | [View →](Day-002-tip-calculator) |
-| 03  | 🏝️ Treasure Island            | If/Elif/Else, Nested Logic           | ✅     | [View →](Day-003-treasure-island) |
+| 03  | 🏝️ Treasure Island             | If/Elif/Else, Nested Logic           | ✅     | [View →](Day-003-treasure-island) |
 | 04  | 🎲 Rock Paper Scissors         | Random, Lists                        | ✅     | [View →](Day-004-rock-paper-scissors) |
 | 05  | 🔐 Password Generator          | Loops, Range                         | ✅     | [View →](Day-005-password-generator) |
+| 06  | 🏧 ATM Simulator               | Functions, While Loops               | ✅     | [view →](Day-006-atm-simulator) |
 | 07  | 🎯 Hangman                     | Flowcharts, ASCII Art                | ⏳     | — |
 | 08  | 🔢 Caesar Cipher               | Functions, Modulo                    | ⏳     | — |
 | 11  | 🃏 Blackjack                   | Capstone Project                     | ⏳     | — |
