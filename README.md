@@ -39,7 +39,7 @@ I upload one project every day to stay consistent and track my progress publicly
 
 | Status       | Days Completed | Start Date   | Target Finish |
 |--------------|----------------|--------------|---------------|
-| In Progress  | **7 Days**     | Jan 1, 2026  | April 2026    |
+| In Progress  | **8 Days**     | Jan 1, 2026  | April 2026    |
 
 ---
 
@@ -56,7 +56,7 @@ I upload one project every day to stay consistent and track my progress publicly
 | 05  | 🔐 Password Generator          | Loops, Range                         | ✅     | [View →](Day-005-password-generator) |
 | 06  | 🏧 ATM Simulator               | Functions, While Loops               | ✅     | [view →](Day-006-atm-simulator) |
 | 07  | 🎯 Hangman                     | Flowcharts, ASCII Art                | ✅     | [view →](Day-007-hangman) |
-| 08  | 🔢 Caesar Cipher               | Functions, Modulo                    | ⏳     | — |
+| 08  | 🔢 Caesar Cipher               | Functions, Modulo                    | ✅     | [view →](Day-008-caesar-cipher) |
 | 11  | 🃏 Blackjack                   | Capstone Project                     | ⏳     | — |
 
 <details>
