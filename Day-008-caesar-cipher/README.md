@@ -49,13 +49,13 @@ hello world
 Type 'yes' if you want to go again. otherwise 'no': no
 
 ## 📚 Concepts Practiced
-Functions — modular code with encoder(), decoder(), choose_type(), and main()
-Loops — for loops for character iteration and while loops for program flow
-String manipulation — indexing, concatenation, and the .lower() / .strip() methods
-Modulo operator (%) — for alphabet wrap-around
-Conditional statements — if/elif/else for input handling
-User input handling — interactive CLI experience
+- Functions — modular code with encoder(), decoder(), choose_type(), and main()
+- Loops — for loops for character iteration and while loops for program flow
+- String manipulation — indexing, concatenation, and the .lower() / .strip() methods
+- Modulo operator (%) — for alphabet wrap-around
+- Conditional statements — if/elif/else for input handling
+- User input handling — interactive CLI experience
 ## ⚠️ Limitations
-Only works with lowercase English letters (a–z)
-Does not encrypt numbers or special characters (they are preserved as-is)
-Shift value must be an integer
+- Only works with lowercase English letters (a–z)
+- Does not encrypt numbers or special characters (they are preserved as-is)
+- Shift value must be an integer
