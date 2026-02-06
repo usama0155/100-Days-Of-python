@@ -57,6 +57,7 @@ I upload one project every day to stay consistent and track my progress publicly
 | 06  | 🏧 ATM Simulator               | Functions, While Loops               | ✅     | [view →](Day-006-atm-simulator) |
 | 07  | 🎯 Hangman                     | Flowcharts, ASCII Art                | ✅     | [view →](Day-007-hangman) |
 | 08  | 🔢 Caesar Cipher               | Functions, Modulo                    | ✅     | [view →](Day-008-caesar-cipher) |
+| 09  | 🔨 Secret Auction              | Dictionaries, While Loops, Functions | ✅     | [view →](Day-009-secret-auction) |
 | 11  | 🃏 Blackjack                   | Capstone Project                     | ⏳     | — |
 
 <details>
