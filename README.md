@@ -39,7 +39,7 @@ I upload one project every day to stay consistent and track my progress publicly
 
 | Status       | Days Completed | Start Date   | Target Finish |
 |--------------|----------------|--------------|---------------|
-| In Progress  | **9 Days**     | Jan 1, 2026  | April 2026    |
+| In Progress  | **10 Days**     | Jan 1, 2026  | April 2026    |
 
 ---
 
@@ -58,6 +58,7 @@ I upload one project every day to stay consistent and track my progress publicly
 | 07  | 🎯 Hangman                     | Flowcharts, ASCII Art                | ✅     | [view →](Day-007-hangman) |
 | 08  | 🔢 Caesar Cipher               | Functions, Modulo                    | ✅     | [view →](Day-008-caesar-cipher) |
 | 09  | 🔨 Secret Auction              | Dictionaries, While Loops, Functions | ✅     | [view →](Day-009-secret-auction) |
+| 10  | 🧮 Calculator App              | Recursion, Functions with Outputs, Dictionaries   | ✅     | [view →](Day-010-calculator) 
 | 11  | 🃏 Blackjack                   | Capstone Project                     | ⏳     | — |
 
 <details>
