@@ -39,7 +39,7 @@ I upload one project every day to stay consistent and track my progress publicly
 
 | Status       | Days Completed | Start Date   | Target Finish |
 |--------------|----------------|--------------|---------------|
-| In Progress  | **8 Days**     | Jan 1, 2026  | April 2026    |
+| In Progress  | **9 Days**     | Jan 1, 2026  | April 2026    |
 
 ---
 
