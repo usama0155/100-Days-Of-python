@@ -23,7 +23,7 @@ Once the program starts:
 3.  Finally, the program will reveal the winner and their highest bid.
 
 ### Example Interaction
-
+```
 Welcome to secret auction program.
 What's your name: Alice
 What's your bid: $120
@@ -41,7 +41,7 @@ What's your name: Charlie
 What's your bid: $110
 Are there other bidders? Type 'yes' OR 'no': no
 Winner is Bob With highest bid of $150
-
+```
 
 ## Code Structure
 
