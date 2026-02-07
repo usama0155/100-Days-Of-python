@@ -60,7 +60,7 @@ I upload one project every day to stay consistent and track my progress publicly
 | 09  | 🔨 Secret Auction              | Dictionaries, While Loops, Functions                 | ✅ | [view →](Day-009-secret-auction) |
 | 10  | 🧮 Calculator App              | Recursion, Functions with Outputs, Dictionaries      | ✅ | [view →](Day-010-calculator) |
 | 11  | 🃏 Blackjack                   | Capstone Project                                     | ✅ | [view →](Day-011-blackjack) |
-| 12  | 🧠 Number Guessing Game        | Scope, Local & Global Variables                      | ✅ | [View →](Day-012-guessing-game) |
+| 12  | 🧠 Number Guessing Game        | Scope, Local & Global Variables                      | ✅ | [View →](Day-012-guessing-number) |
 
 <details>
 <summary><b>View All 100 Days Projects →</b></summary>
