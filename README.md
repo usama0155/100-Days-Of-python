@@ -34,7 +34,7 @@ I upload one project every day to stay consistent and track my progress publicly
 
 ## 🔥 Current Progress
 
-**Day 3 / 100** Completed
+**Day 11 / 100** Completed
 
 
 | Status       | Days Completed | Start Date   | Target Finish |
