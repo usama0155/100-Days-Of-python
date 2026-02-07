@@ -34,12 +34,12 @@ I upload one project every day to stay consistent and track my progress publicly
 
 ## 🔥 Current Progress
 
-**Day 12 / 100** Completed
+**Day 13 / 100** Completed
 
 
 | Status       | Days Completed | Start Date   | Target Finish |
 |--------------|----------------|--------------|---------------|
-| In Progress  | **12 Days**     | Jan 1, 2026  | April 2026    |
+| In Progress  | **13 Days**     | Jan 1, 2026  | April 2026    |
 
 ---
 
@@ -47,8 +47,8 @@ I upload one project every day to stay consistent and track my progress publicly
 
 ### Beginner Projects (Days 1 - 14)
 
-| Day | Project Name                    | Main Topics                          | Status | Link |
-|:---:|-------------------------------|--------------------------------------|:------:|:----:|
+| Day | Project Name                   | Main Topics                                          | Status | Link                              |
+|:---:|--------------------------------|------------------------------------------------------|:--:|:-------------------------------------:|
 | 01  | 🎸 Band Name Generator         | Variables, Input, Strings                            | ✅ | [View →](Day-001-band-name-generator) |
 | 02  | 💰 Tip Calculator              | f-Strings, Data Types, Math                          | ✅ | [View →](Day-002-tip-calculator) |
 | 03  | 🏝️ Treasure Island             | If/Elif/Else, Nested Logic                           | ✅ | [View →](Day-003-treasure-island) |
@@ -61,6 +61,7 @@ I upload one project every day to stay consistent and track my progress publicly
 | 10  | 🧮 Calculator App              | Recursion, Functions with Outputs, Dictionaries      | ✅ | [view →](Day-010-calculator) |
 | 11  | 🃏 Blackjack                   | Capstone Project                                     | ✅ | [view →](Day-011-blackjack) |
 | 12  | 🧠 Number Guessing Game        | Scope, Local & Global Variables                      | ✅ | [View →](Day-012-guessing-number) |
+| 13 | 🐛 Debugging & Error Handling   | Theory of Errors, Bugs, Debugger Usage               | ✅ | [View →](Day-013-beginner-debugging) |
 
 <details>
 <summary><b>View All 100 Days Projects →</b></summary>
