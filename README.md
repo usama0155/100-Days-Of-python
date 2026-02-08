@@ -34,18 +34,18 @@ I upload one project every day to stay consistent and track my progress publicly
 
 ## 🔥 Current Progress
 
-**Day 13 / 100** Completed
+**Day 14 / 100** Completed
 
 
 | Status       | Days Completed | Start Date   | Target Finish |
 |--------------|----------------|--------------|---------------|
-| In Progress  | **13 Days**     | Jan 1, 2026  | April 2026    |
+| In Progress  | **14 Days**     | Jan 1, 2026  | April 2026    |
 
 ---
 
 ## 📊 Projects Overview
-
-### Beginner Projects (Days 1 - 14)
+<details>
+<summary><b>### Beginner Projects (Days 1 - 14)</b></summary>
 
 | Day | Project Name                   | Main Topics                                          | Status | Link                              |
 |:---:|--------------------------------|------------------------------------------------------|:--:|:-------------------------------------:|
@@ -62,7 +62,8 @@ I upload one project every day to stay consistent and track my progress publicly
 | 11  | 🃏 Blackjack                   | Capstone Project                                     | ✅ | [view →](Day-011-blackjack) |
 | 12  | 🧠 Number Guessing Game        | Scope, Local & Global Variables                      | ✅ | [View →](Day-012-guessing-number) |
 | 13 | 🐛 Debugging & Error Handling   | Theory of Errors, Bugs, Debugger Usage               | ✅ | [View →](Day-013-beginner-debugging) |
-
+| 14 |	⬆️ Higher Lower Game         	 | Dictionaries, Functions, Flow Control	              | ✅ | [View →](Day-014-high-low)   |
+</details>
 <details>
 <summary><b>View All 100 Days Projects →</b></summary>
 
@@ -97,7 +98,7 @@ I upload one project every day to stay consistent and track my progress publicly
 ## 🎯 Goals
 
 - [x] Complete first 3 days
-- [ ] Finish Beginner Section (Day 1-14)
+- [x] Finish Beginner Section (Day 1-14)
 - [ ] Build first web app with Flask
 - [ ] Deploy a project online
 - [ ] Complete all 100 Days! 🏆
