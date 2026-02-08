@@ -46,16 +46,14 @@ I upload one project every day to stay consistent and track my progress publicly
 ## 📊 Projects Overview
 
 ### Beginner Projects (Days 1 - 14)
+<details>
+<summary><b>View All Beginner Projects</b></summary>
+
 | Day | Project Name                   | Main Topics                                          | Status | Link                              |
 |:---:|--------------------------------|------------------------------------------------------|:--:|:-------------------------------------:|
 | 01  | 🎸 Band Name Generator         | Variables, Input, Strings                            | ✅ | [View →](Day-001-band-name-generator) |
 | 02  | 💰 Tip Calculator              | f-Strings, Data Types, Math                          | ✅ | [View →](Day-002-tip-calculator) |
 | 03  | 🏝️ Treasure Island             | If/Elif/Else, Nested Logic                           | ✅ | [View →](Day-003-treasure-island) |
-<details>
-<summary><b>All Beginner Projects</b></summary>
-
-| Day | Project Name                   | Main Topics                                          | Status | Link                              |
-|:---:|--------------------------------|------------------------------------------------------|:--:|:-------------------------------------:|
 | 04  | 🎲 Rock Paper Scissors         | Random, Lists                                        | ✅ | [View →](Day-004-rock-paper-scissors) |
 | 05  | 🔐 Password Generator          | Loops, Range                                         | ✅ | [View →](Day-005-password-generator) |
 | 06  | 🏧 ATM Simulator               | Functions, While Loops                               | ✅ | [view →](Day-006-atm-simulator) |
