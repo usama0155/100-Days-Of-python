@@ -47,7 +47,7 @@ I upload one project every day to stay consistent and track my progress publicly
 
 ### Beginner Projects (Days 1 - 14)
 <details>
-```    <summary><b>View All Beginner Projects</b></summary>```
+<summary><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View All Beginner Projects</b></summary>
 
 | Day | Project Name                   | Main Topics                                          | Status | Link                              |
 |:---:|--------------------------------|------------------------------------------------------|:--:|:-------------------------------------:|
