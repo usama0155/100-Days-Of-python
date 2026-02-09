@@ -34,35 +34,40 @@ I upload one project every day to stay consistent and track my progress publicly
 
 ## 🔥 Current Progress
 
-**Day 13 / 100** Completed
+**Day 14 / 100** Completed
 
 
 | Status       | Days Completed | Start Date   | Target Finish |
 |--------------|----------------|--------------|---------------|
-| In Progress  | **13 Days**     | Jan 1, 2026  | April 2026    |
+| In Progress  | **14 Days**     | Jan 1, 2026  | April 2026    |
 
 ---
 
 ## 📊 Projects Overview
 
-### Beginner Projects (Days 1 - 14)
+### Projects
 
-| Day | Project Name                   | Main Topics                                          | Status | Link                              |
-|:---:|--------------------------------|------------------------------------------------------|:--:|:-------------------------------------:|
-| 01  | 🎸 Band Name Generator         | Variables, Input, Strings                            | ✅ | [View →](Day-001-band-name-generator) |
-| 02  | 💰 Tip Calculator              | f-Strings, Data Types, Math                          | ✅ | [View →](Day-002-tip-calculator) |
-| 03  | 🏝️ Treasure Island             | If/Elif/Else, Nested Logic                           | ✅ | [View →](Day-003-treasure-island) |
-| 04  | 🎲 Rock Paper Scissors         | Random, Lists                                        | ✅ | [View →](Day-004-rock-paper-scissors) |
-| 05  | 🔐 Password Generator          | Loops, Range                                         | ✅ | [View →](Day-005-password-generator) |
-| 06  | 🏧 ATM Simulator               | Functions, While Loops                               | ✅ | [view →](Day-006-atm-simulator) |
-| 07  | 🎯 Hangman                     | Flowcharts, ASCII Art                                | ✅ | [view →](Day-007-hangman) |
-| 08  | 🔢 Caesar Cipher               | Functions, Modulo                                    | ✅ | [view →](Day-008-caesar-cipher) |
-| 09  | 🔨 Secret Auction              | Dictionaries, While Loops, Functions                 | ✅ | [view →](Day-009-secret-auction) |
-| 10  | 🧮 Calculator App              | Recursion, Functions with Outputs, Dictionaries      | ✅ | [view →](Day-010-calculator) |
-| 11  | 🃏 Blackjack                   | Capstone Project                                     | ✅ | [view →](Day-011-blackjack) |
-| 12  | 🧠 Number Guessing Game        | Scope, Local & Global Variables                      | ✅ | [View →](Day-012-guessing-number) |
-| 13 | 🐛 Debugging & Error Handling   | Theory of Errors, Bugs, Debugger Usage               | ✅ | [View →](Day-013-beginner-debugging) |
+- <details>
+  <summary><b>View All Beginner Projects(Days 1 - 14)</b></summary>
 
+  | Day | Project Name                 | Main Topics                                     | Status | Link |
+  |:---:|------------------------------|-------------------------------------------------|:------:|:----:|
+  | 01  | 🎸 Band Name Generator       | Variables, Input, Strings                       | ✅ | [View →](Day-001-band-name-generator) |
+  | 02  | 💰 Tip Calculator            | f-Strings, Data Types, Math                     | ✅ | [View →](Day-002-tip-calculator) |
+  | 03  | 🏝️ Treasure Island           | If/Elif/Else, Nested Logic                      | ✅ | [View →](Day-003-treasure-island) |
+  | 04  | 🎲 Rock Paper Scissors       | Random, Lists                                   | ✅ | [View →](Day-004-rock-paper-scissors) |
+  | 05  | 🔐 Password Generator        | Loops, Range                                    | ✅ | [View →](Day-005-password-generator) |
+  | 06  | 🏧 ATM Simulator             | Functions, While Loops                          | ✅ | [View →](Day-006-atm-simulator) |
+  | 07  | 🎯 Hangman                   | Flowcharts, ASCII Art                           | ✅ | [View →](Day-007-hangman) |
+  | 08  | 🔢 Caesar Cipher             | Functions, Modulo                               | ✅ | [View →](Day-008-caesar-cipher) |
+  | 09  | 🔨 Secret Auction            | Dictionaries, While Loops, Functions            | ✅ | [View →](Day-009-secret-auction) |
+  | 10  | 🧮 Calculator App            | Recursion, Outputs, Dictionaries                | ✅ | [View →](Day-010-calculator) |
+  | 11  | 🃏 Blackjack                 | Capstone Project                                | ✅ | [View →](Day-011-blackjack) |
+  | 12  | 🧠 Number Guessing Game      | Scope, Local & Global Variables                 | ✅ | [View →](Day-012-guessing-number) |
+  | 13  | 🐛 Debugging                 | Errors, Bugs, Debugger                          | ✅ | [View →](Day-013-beginner-debugging) |
+  | 14  | ⬆️ Higher Lower Game         | Dictionaries, Flow Control                     | ✅ | [View →](Day-014-high-low) |
+
+  </details>
 <details>
 <summary><b>View All 100 Days Projects →</b></summary>
 
@@ -97,7 +102,7 @@ I upload one project every day to stay consistent and track my progress publicly
 ## 🎯 Goals
 
 - [x] Complete first 3 days
-- [ ] Finish Beginner Section (Day 1-14)
+- [x] Finish Beginner Section (Day 1-14)
 - [ ] Build first web app with Flask
 - [ ] Deploy a project online
 - [ ] Complete all 100 Days! 🏆
